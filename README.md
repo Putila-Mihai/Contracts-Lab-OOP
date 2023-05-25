@@ -1,2 +1,2 @@
 # Contracts-Lab-OOP
-App that manage study contracts
+App that manage study contracts using own vector template
